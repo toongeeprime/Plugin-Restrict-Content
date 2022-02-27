@@ -17,9 +17,9 @@
  * Author URI:		https://github.com/toongeeprime/
  * Text Domain:		toongeeprime-restrict-content
  * Domain Path:		/languages/
- * Requires PHP:	5.3
+ * Requires PHP:	7.0
  * Requires at least:	5.5
- *
+ * Tested up to:		5.9
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
