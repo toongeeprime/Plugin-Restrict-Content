@@ -4,7 +4,7 @@
  * Basic content restriction shortcodes plugin for WordPress
  *
  * @package		toongeeprime-restrict-content
- * @link		https://github.com/toongeeprime/wp-restrict-content-shortcodes
+ * @link		https://github.com/toongeeprime/restrict-content-shortcodes-wp
  * @author		ToongeePrime <toongeeprime@gmail.com>
  * @copyright		2022
  * @license		GPL v2 or later
@@ -12,14 +12,14 @@
  * Plugin Name:		ToongeePrime Restrict Content
  * Description:		Shortcodes to Restrict contents based on whether users are logged in or logged out
  * Version:		1.0
- * Plugin URI:		https://github.com/toongeeprime/wp-restrict-content-shortcodes
+ * Plugin URI:		https://github.com/toongeeprime/restrict-content-shortcodes-wp
  * Author:		ToongeePrime
  * Author URI:		https://github.com/toongeeprime/
  * Text Domain:		toongeeprime-restrict-content
  * Domain Path:		/languages/
  * Requires PHP:	7.0
  * Requires at least:	5.5
- * Tested up to:		5.9
+ * Tested up to:	5.9
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation; either version 2 of the License, or
