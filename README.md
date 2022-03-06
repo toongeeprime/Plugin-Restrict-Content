@@ -1,4 +1,4 @@
-# WP Restrict Content Shortcodes
+# Restrict Content Shortcodes
  WordPress Basic Shortcodes for restricting contents from either logged in or logged out users
 
 ### Shortcodes Usage
